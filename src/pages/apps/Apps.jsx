@@ -1,16 +1,27 @@
-// Apps.jsx
 import React, { useState } from "react";
 import AppPage from "../appsPage/AppPage";
-import { useLoaderData } from "react-router";
+import { useLoaderData, useNavigation } from "react-router";
 import Card from "../card/Card";
 
 const Apps = () => {
   const data = useLoaderData();
+  const navigation = useNavigation();
   const [searchTerm, setSearchTerm] = useState("");
 
- const filteredApps = data.filter((app) =>
-  app.title?.trim().toLowerCase().includes(searchTerm.trim().toLowerCase())
-);
+  const filteredApps = data.filter((app) =>
+    app.title?.trim().toLowerCase().includes(searchTerm.trim().toLowerCase())
+  );
+
+  if (navigation.state === "loading") {
+    return (
+      <div className="flex flex-col justify-center items-center h-screen">
+        <span className="loading loading-spinner loading-lg text-primary"></span>
+        <p className="mt-4 text-lg font-semibold text-gray-600">
+          Loading Apps...
+        </p>
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col justify-center items-center w-full">
