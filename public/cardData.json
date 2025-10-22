@@ -1,0 +1,290 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1760359311336-d2e5e15fb942?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw1Mnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "title": "PixelMaster Pro",
+    "companyName": "Visionary Labs",
+    "id": 1,
+    "description": "PixelMaster Pro is a powerful photo editing application that offers AI-based color correction, background removal, and portrait enhancement. It provides professional-grade filters, intuitive tools, and seamless export options for both mobile and desktop users who love digital creativity.",
+    "size": 85,
+    "reviews": 2541,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 42 },
+      { "name": "2 star", "count": 67 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 512 },
+      { "name": "5 star", "count": 1800 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1760556415132-533affdd9ccf?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0N3x8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "title": "NoteWise",
+    "companyName": "MindStack Technologies",
+    "id": 2,
+    "description": "NoteWise helps you organize your thoughts, ideas, and daily plans efficiently. It features voice-to-text, cloud synchronization, and smart categorization for better productivity. With its distraction-free interface, you can focus on what really matters and stay consistent with your notes.",
+    "size": 48,
+    "reviews": 1340,
+    "ratingAvg": 4.4,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 28 },
+      { "name": "2 star", "count": 53 },
+      { "name": "3 star", "count": 109 },
+      { "name": "4 star", "count": 376 },
+      { "name": "5 star", "count": 774 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1760454477228-0df217a26085?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw1OHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "title": "FitJourney",
+    "companyName": "HealthLoop Inc.",
+    "id": 3,
+    "description": "FitJourney is a complete health and fitness tracker that allows users to plan workouts, log meals, and monitor progress. It syncs with smartwatches, provides daily motivation, and helps you build better habits with customized fitness challenges and expert tips.",
+    "size": 96,
+    "reviews": 4020,
+    "ratingAvg": 4.7,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 84 },
+      { "name": "3 star", "count": 201 },
+      { "name": "4 star", "count": 902 },
+      { "name": "5 star", "count": 2763 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1760661599540-b2fc79b5f8a7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0M3x8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "title": "Learnly",
+    "companyName": "Edunova",
+    "id": 4,
+    "description": "Learnly provides an engaging learning experience with thousands of interactive video lessons, quizzes, and skill tests. Students can learn at their own pace, earn badges, and track progress. Ideal for learners of all ages looking to upgrade academic or professional skills.",
+    "size": 72,
+    "reviews": 3115,
+    "ratingAvg": 4.5,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 91 },
+      { "name": "2 star", "count": 132 },
+      { "name": "3 star", "count": 205 },
+      { "name": "4 star", "count": 879 },
+      { "name": "5 star", "count": 1808 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1760753145427-c327d09ace00?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "title": "TravelMate",
+    "companyName": "SkyWave",
+    "id": 5,
+    "description": "TravelMate is your ultimate travel assistant that helps plan trips, book hotels, and explore nearby attractions. The app includes a built-in translator, weather updates, and offline maps, ensuring a smooth journey anywhere in the world without the need for constant internet access.",
+    "size": 105,
+    "reviews": 1820,
+    "ratingAvg": 4.3,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 122 },
+      { "name": "3 star", "count": 207 },
+      { "name": "4 star", "count": 593 },
+      { "name": "5 star", "count": 818 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1760696156216-4978c81ad6cd?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzOHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "title": "FinGenius",
+    "companyName": "DataCore Systems",
+    "id": 6,
+    "description": "FinGenius simplifies personal finance by tracking expenses, categorizing spending, and forecasting future budgets. Users can set savings goals, view detailed analytics, and receive personalized advice to improve financial habits. Security and privacy are guaranteed with bank-grade encryption.",
+    "size": 64,
+    "reviews": 2380,
+    "ratingAvg": 4.8,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 41 },
+      { "name": "3 star", "count": 118 },
+      { "name": "4 star", "count": 510 },
+      { "name": "5 star", "count": 1681 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1760716720572-cb63b4e7dbf0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzN3x8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "title": "Soundify",
+    "companyName": "AudioSpark Ltd.",
+    "id": 7,
+    "description": "Soundify offers a massive library of songs, podcasts, and live radio. It recommends tracks based on your mood and listening habits. The app allows offline downloads, custom playlists, and real-time lyrics display for the ultimate audio streaming experience on any device.",
+    "size": 90,
+    "reviews": 8150,
+    "ratingAvg": 4.9,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 93 },
+      { "name": "2 star", "count": 124 },
+      { "name": "3 star", "count": 310 },
+      { "name": "4 star", "count": 1122 },
+      { "name": "5 star", "count": 6501 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1760690344266-966d1bf7c46c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzNHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "title": "TaskHero",
+    "companyName": "FlowWorks",
+    "id": 8,
+    "description": "TaskHero helps you manage your daily workflow efficiently with to-do lists, reminders, and collaboration tools. It syncs across all devices and supports team sharing, helping both individuals and organizations stay productive and focused on achieving their goals on time.",
+    "size": 53,
+    "reviews": 1940,
+    "ratingAvg": 4.2,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 89 },
+      { "name": "2 star", "count": 133 },
+      { "name": "3 star", "count": 244 },
+      { "name": "4 star", "count": 560 },
+      { "name": "5 star", "count": 914 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1760715651666-c3e408bfdda7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzNXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "title": "MediCare Plus",
+    "companyName": "HealthGrid",
+    "id": 9,
+    "description": "MediCare Plus connects patients with doctors instantly through chat or video consultation. It provides medicine reminders, digital prescriptions, and health record storage. The app empowers users to take control of their health conveniently from their smartphones with trusted medical guidance.",
+    "size": 110,
+    "reviews": 3000,
+    "ratingAvg": 4.6,
+    "downloads": 550000,
+    "ratings": [
+      { "name": "1 star", "count": 74 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 871 },
+      { "name": "5 star", "count": 1685 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1760735468609-59f035d48442?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzM3x8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "title": "GameHub",
+    "companyName": "NextGen Studios",
+    "id": 10,
+    "description": "GameHub brings together the best casual and multiplayer games into one platform. Players can compete in tournaments, chat with friends, and earn rewards. The app constantly updates with new releases and community-driven events to keep the excitement alive for gamers everywhere.",
+    "size": 200,
+    "reviews": 9012,
+    "ratingAvg": 4.8,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 6312 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1760465881538-8b17b33b0337?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzMHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "title": "ShopEasy",
+    "companyName": "EcomSphere",
+    "id": 11,
+    "description": "ShopEasy transforms online shopping with AI-driven recommendations, price tracking, and personalized offers. Users can browse thousands of brands, compare prices, and enjoy seamless checkout experiences. It ensures safe transactions and fast delivery for all your online purchases.",
+    "size": 82,
+    "reviews": 5120,
+    "ratingAvg": 4.5,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 222 },
+      { "name": "3 star", "count": 504 },
+      { "name": "4 star", "count": 1415 },
+      { "name": "5 star", "count": 2829 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1759915995984-f48bad604453?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyNnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "title": "CookLab",
+    "companyName": "KitchenAI",
+    "id": 12,
+    "description": "CookLab brings thousands of recipes from around the world, offering step-by-step video guidance and ingredient substitution suggestions. You can save favorite dishes, track calories, and even create a digital shopping list for meal planning. It’s perfect for home chefs and beginners.",
+    "size": 97,
+    "reviews": 2103,
+    "ratingAvg": 4.6,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 97 },
+      { "name": "3 star", "count": 183 },
+      { "name": "4 star", "count": 601 },
+      { "name": "5 star", "count": 1162 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1759921037282-1467a5e125ef?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "title": "EcoTrack",
+    "companyName": "Greenify Co.",
+    "id": 13,
+    "description": "EcoTrack helps users monitor their carbon footprint and suggests eco-friendly habits for a sustainable lifestyle. It includes personalized challenges, community goals, and a reward system that encourages positive environmental actions through small, trackable daily improvements.",
+    "size": 60,
+    "reviews": 1720,
+    "ratingAvg": 4.4,
+    "downloads": 230000,
+    "ratings": [
+      { "name": "1 star", "count": 42 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 166 },
+      { "name": "4 star", "count": 509 },
+      { "name": "5 star", "count": 923 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1759921037282-1467a5e125ef?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "title": "TimeWave",
+    "companyName": "Syncly",
+    "id": 14,
+    "description": "TimeWave is an advanced time management app that lets you schedule, prioritize, and automate daily tasks. It integrates calendar events, to-do lists, and reminders with AI-generated productivity suggestions to help you achieve balance and efficiency every day.",
+    "size": 55,
+    "reviews": 1854,
+    "ratingAvg": 4.3,
+    "downloads": 280000,
+    "ratings": [
+      { "name": "1 star", "count": 63 },
+      { "name": "2 star", "count": 91 },
+      { "name": "3 star", "count": 208 },
+      { "name": "4 star", "count": 702 },
+      { "name": "5 star", "count": 790 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1760630509367-ab3faa30a49b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+    "title": "Langify",
+    "companyName": "GlobalLingo",
+    "id": 15,
+    "description": "Langify makes language learning interactive and fun with real-time pronunciation feedback, quizzes, and gamified lessons. Users can connect with native speakers worldwide and track progress. The app adapts lessons dynamically based on your learning speed and performance.",
+    "size": 79,
+    "reviews": 2640,
+    "ratingAvg": 4.7,
+    "downloads": 670000,
+    "ratings": [
+      { "name": "1 star", "count": 52 },
+      { "name": "2 star", "count": 81 },
+      { "name": "3 star", "count": 172 },
+      { "name": "4 star", "count": 698 },
+      { "name": "5 star", "count": 1637 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1760662418182-932278aab280?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=987",
+    "title": "DailyZen",
+    "companyName": "Calmify",
+    "id": 16,
+    "description": "DailyZen helps users practice mindfulness and meditation with soothing sounds, guided sessions, and breathing exercises. It tracks mood patterns and offers daily affirmations to reduce stress. Ideal for those seeking inner peace, mental clarity, and emotional balance in everyday life.",
+    "size": 70,
+    "reviews": 3300,
+    "ratingAvg": 4.8,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 44 },
+      { "name": "2 star", "count": 77 },
+      { "name": "3 star", "count": 154 },
+      { "name": "4 star", "count": 653 },
+      { "name": "5 star", "count": 2372 }
+    ]
+  }
+]
